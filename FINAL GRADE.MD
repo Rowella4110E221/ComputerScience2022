@@ -11,4 +11,4 @@
   - reprot: Computer system
     - comtent
     - A.Computer hardware [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/ComputerHardware.md) 
-    - B.Operating system  [ref4you]
+    - B.Operating system  [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/Operatingsystem.md)
