@@ -64,7 +64,7 @@ CHINESE NAME: 喬萬斯
 English Name: Joaquin Vasti R. Rapada
 nickname: Wax
 email: vastiplayer@gmail.com
-GITHUB: https://github.com/4110E324
+GITHUB: https://github.com/4110E234
 
 good! 10+  you can write a "readme.md" and some "XXX.md" to receive a very good! 10++ 
 ```
