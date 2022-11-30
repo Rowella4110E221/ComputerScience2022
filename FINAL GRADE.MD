@@ -1,6 +1,6 @@
 ### FINAL GRADE
 - MIDTERM EX: 30%
-- ATTENDANCE : 20%  == > 80,81,.......
+- ATTENDANCE : 20%  == > 80,81,.......95
   - reprot: Computer Network 
 - REPORT:  20%  == > 80,81,.......
   - VERSION 1:1123
@@ -10,5 +10,5 @@
 - FINAL EX: 30% 
   - reprot: Computer system
     - comtent
-    - A.Computer hardware
-    - B.Operating system  
+    - A.Computer hardware [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/ComputerHardware.md) 
+    - B.Operating system  [ref4you]
