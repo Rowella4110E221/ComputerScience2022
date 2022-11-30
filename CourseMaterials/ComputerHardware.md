@@ -1,6 +1,9 @@
 # Computer Organization
 - [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
   - [John von Neumann@Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann) 
+  - [instruction]()
+  - [Instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+  - [instruction cycle](https://en.wikipedia.org/wiki/Instruction_cycle)
 
 # CPU中央處理器Central processing unit 
 - [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit)
