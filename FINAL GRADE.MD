@@ -1,7 +1,7 @@
 ### FINAL GRADE
 - MIDTERM EX: 30%
 - ATTENDANCE : 20%  == > 80,81,.......95
-  - reprot: Computer Network 
+  - reprot: Computer Network [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/ComputerNetwork.md)
 - REPORT:  20%  == > 80,81,.......
   - VERSION 1:1123
   - VERSION 2:1130
