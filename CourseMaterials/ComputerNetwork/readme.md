@@ -33,3 +33,19 @@
 - http Response
   - [狀態碼 status code](https://zh.wikipedia.org/zh-tw/HTTP%E7%8A%B6%E6%80%81%E7%A0%81#5xx%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%94%99%E8%AF%AF)
   - [Response header](https://developer.mozilla.org/en-US/docs/Glossary/Response_header) 
+
+## a GET request:
+```html
+GET /home.html HTTP/1.1
+Host: developer.mozilla.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://developer.mozilla.org/testpage.html
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 18 Jul 2016 02:36:04 GMT
+If-None-Match: "c561c68d0ba92bbeb8b0fff2a9199f722e3a621a"
+Cache-Control: max-age=0
+```
