@@ -75,4 +75,12 @@ Addresses:  2404:6800:4012:3::2004
 ipconfig /?
 
 ipconfig /displaydns
+
+ping www.google.com
+```
+
+```
+ping www.google.com
+
+Ping www.google.com [142.251.43.4] (使用 32 位元組的資料):
 ```
