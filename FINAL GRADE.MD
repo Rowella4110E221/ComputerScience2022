@@ -15,6 +15,6 @@
 
 ## YOUR CURRENT score
 
-| name |CHinese name| SID| midterm |Final(Computer system)| Python REPORT | Computer Network REPORT|
-| -- | -- | -- | -- | -- | -- | -- | 
-| MYDEAR | 老師  | A888168 | 90 | 85 | 95 | 87 | 
+| name |CHinese name| SID| midterm |Final(Computer system)| Python REPORT | Computer Network REPORT| PASS or not|
+| -- | -- | -- | -- | -- | -- | -- | -- | 
+| MYDEAR | 老師  | A888168 | 90 | 85 | 95 | 87 | PASS| 
