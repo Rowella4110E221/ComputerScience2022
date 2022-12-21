@@ -12,7 +12,7 @@
 - OSI model, TCP/IP
   - OSI Model
   - TCP/IP
-- TCP/IP protocal suites 
+- [TCP/IP protocal suites](https://en.wikipedia.org/wiki/Internet_protocol_suite) 
   - Application Layer
     - HTTP vs HTTPS 
   - Trasnport Layer
@@ -48,4 +48,31 @@ Upgrade-Insecure-Requests: 1
 If-Modified-Since: Mon, 18 Jul 2016 02:36:04 GMT
 If-None-Match: "c561c68d0ba92bbeb8b0fff2a9199f722e3a621a"
 Cache-Control: max-age=0
+```
+
+## [DNS(Domain Name System)](https://en.wikipedia.org/wiki/Domain_Name_System)
+- IP vs domain name
+- www.google.com == > 
+- www.ksu.edu.tw == >  
+- a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network.
+- Ways to know the ip address of google
+  - nslookup
+
+### nslookup(Windows command)
+```
+nslookup www.google.com
+伺服器:  dns2.ksu.edu.tw
+Address:  120.114.150.1
+
+未經授權的回答:
+名稱:    www.google.com
+Addresses:  2404:6800:4012:3::2004
+          142.251.43.4
+```
+
+### ipconfig
+```
+ipconfig /?
+
+ipconfig /displaydns
 ```
