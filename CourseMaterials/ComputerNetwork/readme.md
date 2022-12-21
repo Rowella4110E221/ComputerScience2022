@@ -84,3 +84,11 @@ ping www.google.com
 
 Ping www.google.com [142.251.43.4] (使用 32 位元組的資料):
 ```
+- DNS attacks: DNS amplication attack
+- [Domain Name System Security Extensions (DNSSEC) ](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
+
+## [telnet](https://en.wikipedia.org/wiki/Telnet) vs [Secure Shell Protocol (SSH)](https://en.wikipedia.org/wiki/Secure_Shell)
+- telnet/ssh client == >telnet/ssh server  
+- putty : ssh client
+- REPORT: Connect to CTF server using ssh client(putty) and solve linux ctf
+
