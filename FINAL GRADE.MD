@@ -12,3 +12,9 @@
     - content
     - A.Computer hardware [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/ComputerHardware.md) 
     - B.Operating system  [ref4you](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/CourseMaterials/Operatingsystem.md)
+
+## YOUR CURRENT score
+
+| name |CHinese name| SID| midterm |Final(Computer system)| Python REPORT | Computer Network REPORT|
+| -- | -- | -- | -- | -- | -- | -- | 
+| MYDEAR | 老師  | A888168 | 90 | 85 | 95 | 87 | 
