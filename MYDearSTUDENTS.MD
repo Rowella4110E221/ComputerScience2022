@@ -348,7 +348,11 @@ GITHUB: https://github.com/4110E205/cs2022.git
 ```
 
 
-
+CHINESE NAME:罗威拉
+English Name:ROWELLA HERNANDEZ
+nickname: rowella
+email:hernandezrowella38@gmaIL.com
+GITHUB:https://github.com/Rowella4110E221
 
 
 
