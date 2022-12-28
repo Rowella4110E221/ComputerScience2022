@@ -18,3 +18,4 @@
 | name |CHinese name| SID| midterm |Final(Computer system)| Python REPORT | Computer Network REPORT| PASS or not|
 | -- | -- | -- | -- | -- | -- | -- | -- | 
 | MYDEAR | 老師  | A888168 | 90 | 85 | 95 | 87 | PASS| 
+| 4110E240| 4110E240  | 4110E240 |  | 40(<100 pages) | 90(200pages) | 40(<100 pages) | | 
